@@ -1,0 +1,13 @@
+.build/
+out/
+dist/
+stock_images/
+boot.img
+dtbo.img
+init_boot.img
+odm.img
+system_dlkm.img
+vbmeta.img
+vbmeta_system.img
+vendor_boot.img
+vendor_dlkm.img
